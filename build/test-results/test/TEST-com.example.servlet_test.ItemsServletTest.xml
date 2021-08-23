@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.servlet_test.ItemsServletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-23T21:28:43" hostname="Andraniks-MacBook-Pro.local" time="0.153">
+  <properties/>
+  <testcase name="assertJson()" classname="com.example.servlet_test.ItemsServletTest" time="0.153"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
